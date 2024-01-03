@@ -1,0 +1,5 @@
+docker exec -it recursing_bhabha /bin/sh
+sh-4.4$ sqlplus
+
+Enter user-name: sys as sysdba
+Enter password:admin
